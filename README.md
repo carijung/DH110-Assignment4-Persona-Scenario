@@ -11,6 +11,8 @@ Cari Jung • DH110 • Fall 2022
 
 <img width="985" alt="taeEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450617-4b94f08b-dfa9-41be-8215-042f7d76311c.png">
 
+<p>&nbsp;</p>
+
 ### Persona 2: Olivia - Recreation Manager
 ![Olivia's Persona](oliviaPersona.png)
 
