@@ -3,11 +3,15 @@ Cari Jung • DH110 • Fall 2022
 
 ## 📜 Purpose of UX Storytelling 
 
+
+
+
+
 ## 👤 Persona and Empathy Map
 ### Persona 1: Taehyun - College Student
 ![Taehyun's Persona](personaTaehyun.png)
 
-#### Taehyun's Empathy Map
+### Taehyun's Empathy Map
 
 <img width="985" alt="taeEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450617-4b94f08b-dfa9-41be-8215-042f7d76311c.png">
 
@@ -16,9 +20,17 @@ Cari Jung • DH110 • Fall 2022
 ### Persona 2: Olivia - Recreation Manager
 ![Olivia's Persona](oliviaPersona.png)
 
-#### Olivia's Empathy Map
+### Olivia's Empathy Map
 
 <img width="985" alt="oliviaEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450604-b6fb53a3-d10e-4854-9e62-6710dc887519.png">
 
-## 🗺️Scenarios and Journey Map
 
+
+
+## 🗺️Scenarios and Journey Map
+### Taehyun's Scenario
+### Taehyun's Journey Map
+
+### Olivia's Scenario
+### Olivia's Journey Map
+#### Olivia's Scenario
