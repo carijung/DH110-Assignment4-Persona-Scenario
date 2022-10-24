@@ -29,8 +29,9 @@ Cari Jung • DH110 • Fall 2022
 
 ## 🗺️Scenarios and Journey Map
 ### Taehyun's Scenario
+
 ### Taehyun's Journey Map
 
 ### Olivia's Scenario
 ### Olivia's Journey Map
-#### Olivia's Scenario
+
