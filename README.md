@@ -9,10 +9,14 @@ Cari Jung • DH110 • Fall 2022
 
 #### Taehyun's Empathy Map
 
+<img width="473" alt="taeEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450617-4b94f08b-dfa9-41be-8215-042f7d76311c.png">
+
 ### Persona 2: Olivia - Recreation Manager
 ![Olivia's Persona](oliviaPersona.png)
 
 #### Olivia's Empathy Map
 
+<img width="472" alt="oliviaEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450604-b6fb53a3-d10e-4854-9e62-6710dc887519.png">
 
 ## Scenarios and Journey Map
+
