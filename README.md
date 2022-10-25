@@ -32,7 +32,9 @@ Cari Jung • DH110 • Fall 2022
 
 ### Taehyun's Scenario
 Taehyun's professor just assigned him a data-based lengthy project to complete in four days. Arriving at his dorm, he immediately scours through the web looking for reliable websites. He arrives at the unep.org homepage and immediately starts interacting with the navigation bar. Reading the options on the navigation bar from left to right, he clicks on 'What we do' and the submenu 'transport' because he is interested in ameliorating transport issues in his country.
+
 😡 However he is faced with a laundry list of articles rather than statistics specific to his country. Taehyun reiterates this process but instead clicks "Air"     because his project will involve air quality. Once again failing to find information on South Korea, Taehyun thinks 'why are there no statistics present?' Impatiently moving his mouse cursor around, he clicks on the search button and types "data on sustainability in South Korea," but is once again faced with irrelevant articles. 
+
 😆Luckily, the "Publication & data" option has a drop down menu that separates publication and data. Additionally, it offers a menu called "Data by sustainable goals and countries" where he successfully downloads data by filtering by country and sustainable goals. 
 
 ### Taehyun's Journey Map
