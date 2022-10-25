@@ -28,7 +28,7 @@ Cari Jung • DH110 • Fall 2022
 
 ## 🗺️Scenarios and Journey Map
 
-|My purpose is to enhance features that seem to be hidden away
+> My purpose is to enhance features that seem to be hidden away
 
 ### Taehyun's Scenario
 #### Taehyun's purpose of using unep.org
