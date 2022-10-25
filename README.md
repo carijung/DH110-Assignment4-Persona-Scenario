@@ -10,21 +10,21 @@ Cari Jung • DH110 • Fall 2022
 ## 👤 Persona and Empathy Map
 ### Persona 1: Taehyun - College Student
 
-<img width="700" alt="taeprofile" src="https://user-images.githubusercontent.com/114601962/197725747-ad2e212c-2f74-4a3c-bbcc-f738b55f9a90.png">
+<img width="900" alt="taeprofile" src="https://user-images.githubusercontent.com/114601962/197725747-ad2e212c-2f74-4a3c-bbcc-f738b55f9a90.png">
 
 ### Taehyun's Empathy Map
 
-<img width="700" alt="taeempathy" src="https://user-images.githubusercontent.com/114601962/197726083-78373e66-7c8e-45de-8c7c-82d50dc8079d.png">
+<img width="900" alt="taeempathy" src="https://user-images.githubusercontent.com/114601962/197726083-78373e66-7c8e-45de-8c7c-82d50dc8079d.png">
 
 <p>&nbsp;</p>
 
 ### Persona 2: Olivia - Recreation Manager
 
-<img width="700" alt="oliviaprofile" src="https://user-images.githubusercontent.com/114601962/197726540-72744fa6-d712-4add-a496-f574bbb965ff.png">
+<img width="900" alt="oliviaprofile" src="https://user-images.githubusercontent.com/114601962/197726540-72744fa6-d712-4add-a496-f574bbb965ff.png">
 
 ### Olivia's Empathy Map
 
-<img width="700" alt="oliviaempathy" src="https://user-images.githubusercontent.com/114601962/197726884-4c7bb96d-d4b7-449b-b464-487a266b66cc.png">
+<img width="900" alt="oliviaempathy" src="https://user-images.githubusercontent.com/114601962/197726884-4c7bb96d-d4b7-449b-b464-487a266b66cc.png">
 
 ## 🗺️Scenarios and Journey Map
 *My purpose is to enhance features that seem to be hidden away
