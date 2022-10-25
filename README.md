@@ -53,14 +53,12 @@ Olivia sees the "What you can do" menu on the navigation tab and sees the differ
 Curious about achieving a sustainable community, she navigates to the "what we do" tab and clicks on "sustainable cities and communities." Landing on the page, Olivia is able to see all the goals aesthetically listed. The indicator that indicates that the goals are clickable helps Olivia click on "Goal 11: Sustainable Cities and Communities" and find interactive visualizations and links that lead her to finding information about 279 million people experiencing lack of electricity and more. With the informations, she is able to create a physical flier that she will pass out to those with no access to internet while her daughters will post the digital flier on social media to spread awareness and plans to restore the community. 
 
 
+### Olivia's Journey Map
 -parallax scrolling page ; after spending time scorlling....
 - brief and goals explicitly stated 
 - damages that have been done 
 - daughter shares on social media 
 - visualizations
-
-### Olivia's Journey Map
-
 ### Reflection
 [ask]
 
