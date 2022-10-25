@@ -36,12 +36,12 @@ Taehyun's professor just assigned him a data-based project to complete in four d
 
 #### Taehyun's usage of unep.org
 Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage. Immediatly, he is able to see the "publication & data" menu on the navigation bar which has three submenus: publication, data, and data on sustainability goals by country. Taehyun clicks on "sustainability goals by country" and immediately finds filtering options for sustainability goals and countries/regions and proceeeds to download the data for greenhouse gas emissions due to agriculture and urban populations complied on Microsoft Excel. Taehyun then easily switches the countries to compare data. He believes he will be able to finish his project in no time. 
-
-😡 However he is faced with a laundry list of articles rather than statistics specific to his country. Taehyun reiterates this process but instead clicks "Air" because his project will involve air quality. Once again failing to find information on South Korea, Taehyun thinks 'why are there no statistics present?' Impatiently moving his mouse cursor around, he clicks on the search button and types "data on sustainability in South Korea," but is faced with irrelevant articles. 
-
-😆Luckily, the "Publication & data" option has a drop down menu that separates publication and data. Additionally, it offers a menu called "Data by sustainable goals and countries" where he successfully downloads data by filtering by country and sustainable goals. 
+ 
 
 ### Taehyun's Journey Map
+
+<img width="900" alt="taejourney" src="https://user-images.githubusercontent.com/114601962/197741785-a8357f20-a407-4820-9e5c-2ce27d865b6c.png">
+
 
 ### Olivia's Scenario
 #### Olivia's purpose of using unep.org
