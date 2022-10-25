@@ -9,23 +9,22 @@ Cari Jung • DH110 • Fall 2022
 
 ## 👤 Persona and Empathy Map
 ### Persona 1: Taehyun - College Student
-![Taehyun's Persona](personaTaehyun.png)
+
+<img width="474" alt="taeprofile" src="https://user-images.githubusercontent.com/114601962/197725747-ad2e212c-2f74-4a3c-bbcc-f738b55f9a90.png">
 
 ### Taehyun's Empathy Map
 
-<img width="985" alt="taeEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450617-4b94f08b-dfa9-41be-8215-042f7d76311c.png">
+<img width="588" alt="taeempathy" src="https://user-images.githubusercontent.com/114601962/197726083-78373e66-7c8e-45de-8c7c-82d50dc8079d.png">
 
 <p>&nbsp;</p>
 
 ### Persona 2: Olivia - Recreation Manager
-![Olivia's Persona](oliviaPersona.png)
+
+<img width="490" alt="oliviaprofile" src="https://user-images.githubusercontent.com/114601962/197726540-72744fa6-d712-4add-a496-f574bbb965ff.png">
 
 ### Olivia's Empathy Map
 
-<img width="985" alt="oliviaEmpathyMap" src="https://user-images.githubusercontent.com/114601962/197450604-b6fb53a3-d10e-4854-9e62-6710dc887519.png">
-
-
-
+<img width="496" alt="oliviaempathy" src="https://user-images.githubusercontent.com/114601962/197726884-4c7bb96d-d4b7-449b-b464-487a266b66cc.png">
 
 ## 🗺️Scenarios and Journey Map
 *My purpose is to enhance features that seem to be hidden away
@@ -48,9 +47,10 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 Twenty five years as working as a recreation manager and witnessing issues that arised in urban areas, Olivia wants to provide opportunities for people in her community to actively participate in advancing our progress towards reaching a sustainable community. Wanting to brainstorm ideas for potential activities and create fliers that include alarming statistics, events/activities, previous damages, she finds unep.org and thinks that this site seems to house many resources. 
 
 #### Olivia's usage of unep.org
-Olivia sees the "What you can do" menu on the navigation tab and sees the different actions like "take climate action," "take nature action," "take chemicals and pollution action," "learn to restore ecosystems," and "campaign for better air quality." 
-- learns that 
-- explicit 
+Olivia sees the "What you can do" menu on the navigation tab and sees the different actions like "take climate action," "take nature action," "take chemicals and pollution action," "learn to restore ecosystems," and "campaign for better air quality." Reading about how one can get involved, she brainstorms few ideas like installing a walking tracker app and offering prizes for those who show great increase in the number of steps. She also comes up with ideas about partnering with already existing organizations that serve the underserved community and planning activities in parks. 
+
+Curious about achieving a sustainable community, she navigates to the "what we do" tab and clicks on "sustainable cities and communities." Landing on the page, Olivia is able to see all the goals aesthetically listed. The indicator that indicates that the goals are clickable helps Olivia click on "Goal 11: Sustainable Cities and Communities" and find interactive visualizations and links that lead her to finding information about 279 million people experiencing lack of electricity and more. With the informations, she is able to create a physical flier that she will pass out to those with no access to internet while her daughters will post the digital flier on social media to spread awareness and plans to restore the community. 
+
 
 -parallax scrolling page ; after spending time scorlling....
 - brief and goals explicitly stated 
@@ -62,3 +62,4 @@ Olivia sees the "What you can do" menu on the navigation tab and sees the differ
 
 ### Reflection
 [ask]
+
