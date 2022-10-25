@@ -27,7 +27,8 @@ Cari Jung • DH110 • Fall 2022
 <img width="900" alt="oliviaempathy" src="https://user-images.githubusercontent.com/114601962/197726884-4c7bb96d-d4b7-449b-b464-487a266b66cc.png">
 
 ## 🗺️Scenarios and Journey Map
-*My purpose is to enhance features that seem to be hidden away
+
+|My purpose is to enhance features that seem to be hidden away
 
 ### Taehyun's Scenario
 #### Taehyun's purpose of using unep.org
