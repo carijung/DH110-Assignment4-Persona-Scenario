@@ -40,7 +40,7 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 
 ### Taehyun's Journey Map
 
-<img width="1000" alt="taejourney" src="https://user-images.githubusercontent.com/114601962/197741785-a8357f20-a407-4820-9e5c-2ce27d865b6c.png">
+<img width="1100" alt="taejourney" src="https://user-images.githubusercontent.com/114601962/197741785-a8357f20-a407-4820-9e5c-2ce27d865b6c.png">
 
 
 ### Olivia's Scenario
