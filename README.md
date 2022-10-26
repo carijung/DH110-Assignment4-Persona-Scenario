@@ -10,29 +10,29 @@ Cari Jung • DH110 • Fall 2022
 ## 👤 Persona and Empathy Map
 ### Persona 1: Taehyun - College Student
 
-<img width="900" alt="taepers" src="https://user-images.githubusercontent.com/114601962/197951727-bf57d29a-4b56-435a-8788-7e6e6b6adbba.png">
+<img width="900" alt="taepers" src="https://user-images.githubusercontent.com/114601962/197952075-b4166d05-20d1-45ac-b853-a1840da40909.png">
 
 ### Taehyun's Empathy Map
 
-<img width="592" alt="taepers" src="https://user-images.githubusercontent.com/114601962/197952075-b4166d05-20d1-45ac-b853-a1840da40909.png">
+<img width="900" alt="taeemp" src="https://user-images.githubusercontent.com/114601962/197954509-f31b010f-146d-4684-9dd3-c1262f11baab.png">
 
 <p>&nbsp;</p>
 
 ### Persona 2: Olivia - Recreation Manager
 
-<img width="559" alt="oliviaper" src="https://user-images.githubusercontent.com/114601962/197952704-63a86c3b-6a25-42b2-af2c-18153ec052be.png">
+<img width="900" alt="oliviaper" src="https://user-images.githubusercontent.com/114601962/197952704-63a86c3b-6a25-42b2-af2c-18153ec052be.png">
 
 ### Olivia's Empathy Map
 
-<img width="604" alt="oliviaemp" src="https://user-images.githubusercontent.com/114601962/197952787-944872d4-72ca-4f43-88c3-8591205b8e17.png">
+<img width="900" alt="oliviaemp" src="https://user-images.githubusercontent.com/114601962/197952787-944872d4-72ca-4f43-88c3-8591205b8e17.png">
 
 ### Persona 3: Daphney - Architect
 
-<img width="327" alt="daphper" src="https://user-images.githubusercontent.com/114601962/197953173-089be581-3d68-45e9-81b0-96dda7a34479.png">
+<img width="900" alt="daphper" src="https://user-images.githubusercontent.com/114601962/197953173-089be581-3d68-45e9-81b0-96dda7a34479.png">
 
 ### Daphney's Empathy Map
 
-<img width="564" alt="daphemp" src="https://user-images.githubusercontent.com/114601962/197953224-08cc37d6-71f4-43ff-8dca-3f887e6b9434.png">
+<img width="900" alt="daphemp" src="https://user-images.githubusercontent.com/114601962/197953224-08cc37d6-71f4-43ff-8dca-3f887e6b9434.png">
 
 <p>&nbsp;</p>
 
@@ -50,7 +50,7 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 
 ### Taehyun's Journey Map
 
-<img width="672" alt="taejm" src="https://user-images.githubusercontent.com/114601962/197954176-6b4cd8ff-42f1-4719-ac50-2bb5e8ed6831.png">
+<img width="800" alt="taejm" src="https://user-images.githubusercontent.com/114601962/197954176-6b4cd8ff-42f1-4719-ac50-2bb5e8ed6831.png">
 
 <p>&nbsp;</p>
 
@@ -65,7 +65,7 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 
 ### Olivia's Journey Map
 
-<img width="657" alt="oliviajm" src="https://user-images.githubusercontent.com/114601962/197954219-302d8e7d-1c7f-41de-949f-a2aac3111a6a.png">
+<img width="800" alt="oliviajm" src="https://user-images.githubusercontent.com/114601962/197954219-302d8e7d-1c7f-41de-949f-a2aac3111a6a.png">
 
 <p>&nbsp;</p>
 
@@ -76,4 +76,4 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 
 ### Daphney's Journey Map
 
-<img width="657" alt="daphjm" src="https://user-images.githubusercontent.com/114601962/197954286-435a48ef-6208-46de-8214-c0e7092460ee.png">
+<img width="800" alt="daphjm" src="https://user-images.githubusercontent.com/114601962/197954286-435a48ef-6208-46de-8214-c0e7092460ee.png">
