@@ -35,8 +35,8 @@ Cari Jung • DH110 • Fall 2022
 Taehyun's professor just assigned him a data-based project to complete in four days. Due to the limited time, instead of scouring through the web and gathering too many resources, he would like to have few reliable resources. Highly interested in ameliorating greenhouse gas emissions and congestion in South Korea, he wants to find statistics that will support the issues he chose. Taehyun wants to be able to filter the data himself to compare emission and congestion rates with different countries. 
 
 #### Taehyun's usage of unep.org
-Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage. Immediatly, he is able to see the "publication & data" menu on the navigation bar which has three submenus: publication, data, and data on sustainability goals by country. Taehyun clicks on "sustainability goals by country" and immediately finds filtering options for sustainability goals and countries/regions and proceeeds to download the data for greenhouse gas emissions due to agriculture and urban populations complied on Microsoft Excel. Taehyun then easily switches the countries to compare data. He believes he will be able to finish his project in no time. 
- 
+Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage. Immediatly, he is able to see the "publication & data" menu on the navigation bar which has three submenus: publication, data, and data on sustainability goals by country. Taehyun clicks on "data on sustainability goals by country" and lands on an interactive page where he can filter his search results by sustainability goals and countries/regions. He proceeeds to click "cities and communities," selects "greenhouse gas emissions from agriculture," and selects "Republic of Korea." Taehyun successfully downloads the data compiled on Microsoft Excel. Wanting to find more data on different topics like urban population and compare data with different countries, he reloads the page. All his previous selections are gone, which allows Taehyun to make new selections without having to deselect all his options. However, the data that he previously requested remains at the bottom of the page along with a description which explicitly states his choices: "cities and communities / greenhouse gas emmisions by agriculture / Republic of Korea." Taehyun believes this efficient process will allow him to finish his project in no time. 
+
 
 ### Taehyun's Journey Map
 
@@ -48,7 +48,7 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 Twenty five years as working as a recreation manager and witnessing issues that arised in urban areas, Olivia wants to provide opportunities for people in her community to actively participate in advancing our progress towards reaching a sustainable community. Wanting to brainstorm ideas for potential activities and create fliers that include alarming statistics, events/activities, previous damages, she finds unep.org and thinks that this site seems to house many resources. 
 
 #### Olivia's usage of unep.org
-Olivia sees the "What you can do" menu on the navigation tab and sees the different actions like "take climate action," "take nature action," "take chemicals and pollution action," "learn to restore ecosystems," and "campaign for better air quality." Reading about how one can get involved, she brainstorms few ideas like installing a walking tracker app and offering prizes for those who show great increase in the number of steps. She also comes up with ideas about partnering with already existing organizations that serve the underserved community and planning activities in parks. 
+Olivia sees the "What you can do" menu on the navigation tab and sees the different actions like "take climate action," "take nature action," "take chemicals and pollution action," "learn to restore ecosystems" (external link) and "campaign for better air quality" (external link). Reading about how one can get involved, she brainstorms few ideas like installing a walking tracker app and offering prizes for those who show great increase in the number of steps. She also comes up with ideas about partnering with already existing organizations that serve the underserved community and planning activities in parks. 
 
 Curious about achieving a sustainable community, she navigates to the "what we do" tab and clicks on "sustainable cities and communities." Landing on the page, Olivia is able to see all the goals aesthetically listed. The indicator that indicates that the goals are clickable helps Olivia click on "Goal 11: Sustainable Cities and Communities" and find interactive visualizations and links that lead her to finding information about 279 million people experiencing lack of electricity and more. With the informations, she is able to create a physical flier that she will pass out to those with no access to internet while her daughters will post the digital flier on social media to spread awareness and plans to restore the community. 
 
@@ -59,6 +59,4 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 - damages that have been done 
 - daughter shares on social media 
 - visualizations
-### Reflection
-[ask]
 
