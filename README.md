@@ -71,9 +71,10 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 
 ### 3. Daphney's Scenario
 #### Daphney's purpose of using unep.org
-As an architect, Daphney wants to mitigate housing insecurity in Kenya. Before getting involved, she wants to learn more about what issues Kenya is experiencing and how they have been responding. Her coworker who has served in Kenya three years ago suggests unep.org. Daphney think that this site houses information on Africa and thinks she would be able to gain many insights. 
+As an architect, Daphney wants to mitigate housing insecurity in Kenya. Before getting involved, she wants to learn more about what issues Kenya is experiencing and how they have been responding. Her coworker who has served in Kenya three years ago suggests unep.org. Daphney thinks that this site houses many information and thinks she would be able to gain many insights. 
 
 #### Daphney's usage of unep.org
+Daphney immediately locates "where we work" and sees that UNEP is working in Africa. Clicking on Africa she is led to a page which displays challenges Africa is facing and few articles. She is thankful that the page does not immediately show a laundry list of articles she would've had to scroll through. Instead she finds a "see more articles and resources" that allows her to view more resources by choice. Daphney clicks on it and explores up to five pages of the list of articles. Currently in page 5/32, she wants to go back to the previous page without having to scroll all the way down and clicking "previous page." Luckily, the back button present on top of the window serves the same purpose. There is also a "back to Africa homepage" that allows her to go back to the frontpage without having to reiterate the process of looking for "Africa" in the navigation tab or continuously click on the back button. Enraptured by the rich resources this site provides, she visits different tabs but there is the search bar visible and fixed on the navigation bar that she can use to search for articles on Kenya or Africa, regardless of which page she is currently viewing.
 
 ### Daphney's Journey Map
 
