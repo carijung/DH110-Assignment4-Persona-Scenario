@@ -3,8 +3,7 @@ Cari Jung • DH110 • Fall 2022
 
 ## 📜 Purpose of UX Storytelling 
 
-
-
+The purpose of UX storytelling is to gain complete insight and perspective on what users want instead of making assumptions on what they would prefer. Storytelling helps us determine the types of users involved in the utilization of our digital product focusing on our environment. As a platform that is accessible by all users with access to the internet, understanding each user is key to developing the unep.org website. 
 
 
 ## 👤 Persona and Empathy Map
