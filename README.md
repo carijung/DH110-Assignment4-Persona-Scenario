@@ -50,7 +50,7 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 
 ### Taehyun's Journey Map
 
-<img width="1000" alt="taejm" src="https://user-images.githubusercontent.com/114601962/197954176-6b4cd8ff-42f1-4719-ac50-2bb5e8ed6831.png">
+<img width="1100" alt="taejm" src="https://user-images.githubusercontent.com/114601962/197954176-6b4cd8ff-42f1-4719-ac50-2bb5e8ed6831.png">
 
 <p>&nbsp;</p>
 
@@ -65,7 +65,7 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 
 ### Olivia's Journey Map
 
-<img width="1000" alt="oliviajm" src="https://user-images.githubusercontent.com/114601962/197954219-302d8e7d-1c7f-41de-949f-a2aac3111a6a.png">
+<img width="1100" alt="oliviajm" src="https://user-images.githubusercontent.com/114601962/197954219-302d8e7d-1c7f-41de-949f-a2aac3111a6a.png">
 
 <p>&nbsp;</p>
 
@@ -78,4 +78,4 @@ Daphney immediately locates "where we work" and sees that UNEP is working in Afr
 
 ### Daphney's Journey Map
 
-<img width="1000" alt="daphjm" src="https://user-images.githubusercontent.com/114601962/197954286-435a48ef-6208-46de-8214-c0e7092460ee.png">
+<img width="1100" alt="daphjm" src="https://user-images.githubusercontent.com/114601962/197954286-435a48ef-6208-46de-8214-c0e7092460ee.png">
