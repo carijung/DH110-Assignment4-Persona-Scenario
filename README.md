@@ -71,6 +71,7 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 
 ### 3. Daphney's Scenario
 #### Daphney's purpose of using unep.org
+As an architect, Daphney wants to mitigate housing insecurity in Kenya. Before getting involved, she wants to learn more about what issues Kenya is experiencing and how they have been responding. Her coworker who has served in Kenya three years ago suggests unep.org. Daphney think that this site houses information on Africa and thinks she would be able to gain many insights. 
 
 #### Daphney's usage of unep.org
 
