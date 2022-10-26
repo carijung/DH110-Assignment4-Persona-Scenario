@@ -10,21 +10,31 @@ Cari Jung • DH110 • Fall 2022
 ## 👤 Persona and Empathy Map
 ### Persona 1: Taehyun - College Student
 
-<img width="900" alt="taeprofile" src="https://user-images.githubusercontent.com/114601962/197725747-ad2e212c-2f74-4a3c-bbcc-f738b55f9a90.png">
+<img width="900" alt="taepers" src="https://user-images.githubusercontent.com/114601962/197951727-bf57d29a-4b56-435a-8788-7e6e6b6adbba.png">
 
 ### Taehyun's Empathy Map
 
-<img width="900" alt="taeempathy" src="https://user-images.githubusercontent.com/114601962/197726083-78373e66-7c8e-45de-8c7c-82d50dc8079d.png">
+<img width="592" alt="taepers" src="https://user-images.githubusercontent.com/114601962/197952075-b4166d05-20d1-45ac-b853-a1840da40909.png">
 
 <p>&nbsp;</p>
 
 ### Persona 2: Olivia - Recreation Manager
 
-<img width="900" alt="oliviaprofile" src="https://user-images.githubusercontent.com/114601962/197726540-72744fa6-d712-4add-a496-f574bbb965ff.png">
+<img width="559" alt="oliviaper" src="https://user-images.githubusercontent.com/114601962/197952704-63a86c3b-6a25-42b2-af2c-18153ec052be.png">
 
 ### Olivia's Empathy Map
 
-<img width="900" alt="oliviaempathy" src="https://user-images.githubusercontent.com/114601962/197726884-4c7bb96d-d4b7-449b-b464-487a266b66cc.png">
+<img width="604" alt="oliviaemp" src="https://user-images.githubusercontent.com/114601962/197952787-944872d4-72ca-4f43-88c3-8591205b8e17.png">
+
+### Persona 3: Daphney - Architect
+
+<img width="327" alt="daphper" src="https://user-images.githubusercontent.com/114601962/197953173-089be581-3d68-45e9-81b0-96dda7a34479.png">
+
+### Daphney's Empathy Map
+
+<img width="564" alt="daphemp" src="https://user-images.githubusercontent.com/114601962/197953224-08cc37d6-71f4-43ff-8dca-3f887e6b9434.png">
+
+<p>&nbsp;</p>
 
 ## 🗺️Scenarios and Journey Map
 
@@ -40,8 +50,9 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 
 ### Taehyun's Journey Map
 
-<img width="1100" alt="taejourney" src="https://user-images.githubusercontent.com/114601962/197741785-a8357f20-a407-4820-9e5c-2ce27d865b6c.png">
+<img width="672" alt="taejm" src="https://user-images.githubusercontent.com/114601962/197954176-6b4cd8ff-42f1-4719-ac50-2bb5e8ed6831.png">
 
+<p>&nbsp;</p>
 
 ### 2. Olivia's Scenario
 #### Olivia's purpose of using unep.org
@@ -52,11 +63,17 @@ Olivia sees the "What you can do" menu on the navigation tab and sees the differ
 
 Curious about achieving a sustainable community, she navigates to the "what we do" tab and clicks on "sustainable cities and communities." Landing on the page, Olivia is able to see all the goals aesthetically listed. The indicator that is a shape of a pointing finger indicates that the goals are clickable, which helps Olivia click on "Goal 11: Sustainable Cities and Communities" and find interactive visualizations and links that lead her to finding information about 279 million people experiencing lack of electricity and more. With the informations, she is able to create a physical flier that she will pass out to those with no access to internet while her daughters will post the digital flier on social media to spread awareness and plans to restore the community. 
 
-
 ### Olivia's Journey Map
+
+<img width="657" alt="oliviajm" src="https://user-images.githubusercontent.com/114601962/197954219-302d8e7d-1c7f-41de-949f-a2aac3111a6a.png">
+
+<p>&nbsp;</p>
 
 ### 3. Daphney's Scenario
 #### Daphney's purpose of using unep.org
 
 #### Daphney's usage of unep.org
-- search bar on homepage
+
+### Daphney's Journey Map
+
+<img width="657" alt="daphjm" src="https://user-images.githubusercontent.com/114601962/197954286-435a48ef-6208-46de-8214-c0e7092460ee.png">
