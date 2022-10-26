@@ -28,7 +28,7 @@ The purpose of UX storytelling is to gain complete insight and perspective on wh
 
 ### Persona 3: Daphney - Architect
 
-<img width="900" alt="daphper" src="https://user-images.githubusercontent.com/114601962/197953173-089be581-3d68-45e9-81b0-96dda7a34479.png">
+<img width="658" alt="daphnew" src="https://user-images.githubusercontent.com/114601962/197965278-d3502301-5dfd-456a-bae0-bf5a010fe2d1.png">
 
 ### Daphney's Empathy Map
 
