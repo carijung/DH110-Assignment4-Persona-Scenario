@@ -30,7 +30,7 @@ Cari Jung • DH110 • Fall 2022
 
 > My purpose is to enhance features that seem to be hidden away
 
-### Taehyun's Scenario
+### 1. Taehyun's Scenario
 #### Taehyun's purpose of using unep.org
 Taehyun's professor just assigned him a data-based project to complete in four days. Due to the limited time, instead of scouring through the web and gathering too many resources, he would like to have few reliable resources. Highly interested in ameliorating greenhouse gas emissions and congestion in South Korea, he wants to find statistics that will support the issues he chose. Taehyun wants to be able to filter the data himself to compare emission and congestion rates with different countries. 
 
@@ -43,7 +43,7 @@ Rushing back to his dorm, he opens his laptop and lands on the unep.org homepage
 <img width="1100" alt="taejourney" src="https://user-images.githubusercontent.com/114601962/197741785-a8357f20-a407-4820-9e5c-2ce27d865b6c.png">
 
 
-### Olivia's Scenario
+### 2. Olivia's Scenario
 #### Olivia's purpose of using unep.org
 Twenty five years as working as a recreation manager and witnessing issues that arised in urban areas, Olivia wants to provide opportunities for people in her community to actively participate in advancing our progress towards reaching a sustainable community. Wanting to brainstorm ideas for potential activities and create fliers that include alarming statistics, events/activities, previous damages, she finds unep.org and thinks that this site seems to house many resources. 
 
@@ -54,9 +54,9 @@ Curious about achieving a sustainable community, she navigates to the "what we d
 
 
 ### Olivia's Journey Map
--parallax scrolling page ; after spending time scorlling....
-- brief and goals explicitly stated 
-- damages that have been done 
-- daughter shares on social media 
-- visualizations
 
+### 3. Daphney's Scenario
+#### Daphney's purpose of using unep.org
+
+#### Daphney's usage of unep.org
+- search bar on homepage
