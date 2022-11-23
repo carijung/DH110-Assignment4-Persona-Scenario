@@ -14,7 +14,7 @@ The purpose of UX storytelling is to gain complete insight and perspective on wh
 
 ### Taehyun's Empathy Map
 
-<img width="900" alt="taeemp" src="https://user-images.githubusercontent.com/114601962/197954509-f31b010f-146d-4684-9dd3-c1262f11baab.png">
+![Screenshot (97)](https://user-images.githubusercontent.com/114601962/203460052-a3430be4-7df7-40a4-a3d5-c95c87690a4c.png)
 
 <p>&nbsp;</p>
 
